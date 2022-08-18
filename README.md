@@ -10,7 +10,7 @@ History:
 
 Anush is a father of the dog LOKI. LOKI was a Labrador and the best one....
 
-sadly LOKI died on my hands when we where playing with a small ball  
+Sadly LOKI died on my hands when we where playing with a small ball  
 The ball stuck in the throat...Loki passed away
 it was a really sad day 28.03.2022.
 
@@ -19,9 +19,9 @@ that time costed a life.
 
 I wish Loki could forgive me.
 
-that day will die with me but before it happens I want to save many life as possible.
+That day will die with me but before it happens I want to save many life as possible.
 
-My idea is to develop a app that will save.
+My idea is to develop a app that will save pets and animals.
 
 I wish that all places related with animals will have my app on it.
 
@@ -38,3 +38,5 @@ A GOAL broken down into steps become a PLAN
 A PLAN backed by ACTION becomes REALTY"
 
 I found this one and I love it If I knew who wrote I would add the name for sure.
+
+All contributions are welcome.
