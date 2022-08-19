@@ -26,4 +26,10 @@ body {
   font-family: inherit;
   font-weight: bold;
   font-size: 2rem;
+  margin-bottom: 15px;
+}
+span {
+  font-family: inherit;
+  font-weight: bold;
+  font-size: 2rem;
 }
