@@ -23,3 +23,14 @@ function getLocation() {
 function showPosition(position) {
   local.innerHTML = `Latitude: ${position.coords.latitude} Longitude: ${position.coords.longitude} `;
 }
+/**
+ todo list:
+
+ I need to find the way to call a phone number when I press the button(for this project
+   version i am happy with the phone number display)
+
+ get list of emergency numbers for animals
+
+ the closest emergency number in relation to my geolocation
+
+ */
