@@ -1,7 +1,8 @@
 const btn = document.getElementById("btn");
 const local = document.getElementById("myLocal");
 
-btn.addEventListener("click", call, getLocation);
+btn.addEventListener("click", call);
+btn.addEventListener("click", getLocation);
 
 function call() {
   document.getElementById("text").innerHTML = `calling...`;
