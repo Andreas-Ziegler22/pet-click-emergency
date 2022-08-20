@@ -1,6 +1,11 @@
 const btn = document.getElementById("btn");
 const local = document.getElementById("myLocal");
-
+/**
+ It was a nice fight
+ I was trying to do:
+ btn.addEventListener("click", call,getLocation);
+ as I understood addEventListener support only one function;-)
+ */
 btn.addEventListener("click", call);
 btn.addEventListener("click", getLocation);
 
