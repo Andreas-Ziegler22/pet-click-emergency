@@ -40,3 +40,23 @@ A PLAN backed by ACTION becomes REALTY"
 I found this one and I love it If I knew who wrote I would add the name for sure.
 
 All contributions are welcome.
+
+
+### The Project
+
+version 1
+
+ - [x] button 
+ - [x] location
+ 
+ version 2
+ 
+ - [ ] google maps in progress
+ 
+#### problem to solve
+
+. Give maps location  permission and find location.
+. Find the way of my locations and the locations os emergecy for animals.
+. how to structure this project better.
+. may I build in NEXT.js and let online page for test
+
