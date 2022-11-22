@@ -60,3 +60,14 @@ version 1
 . how to structure this project better.
 . may I build in NEXT.js and let online page for test
 
+
+This wasn't in the plan but now it will be logBook
+
+I came across with web scraping now  here is one exemple of it  https://github.com/Andreas-Ziegler22/building-a-web-Scraper
+
+I have only to optimize the functionality.. 
+
+Catch of the day:  to do a big picture into small steps is not that simple a senior has already developed that skills and I learning how to do it
+
+> "the difference between solving a problem and developing something is if you don't have a problem to solve you cannot develop something" its my thought after a job interview.
+
